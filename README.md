@@ -64,5 +64,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Author
 
-Developed by **Your Name**  
-GitHub: [yourusername](https://github.com/yourusername)  
+Developed by **Sakib Salim**  
+GitHub: [sakib-salim](https://github.com/SAKIB-SALIM)
