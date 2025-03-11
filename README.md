@@ -2,9 +2,9 @@
 
 *A simple ChaCha20 encryption/decryption utility for Python.*
 
-[![PyPI](https://img.shields.io/pypi/v/chacha20-utils.svg)](https://pypi.org/project/chacha20-utils/)  
-[![Python Version](https://img.shields.io/pypi/pyversions/chacha20-utils.svg)](https://pypi.org/project/chacha20-utils/)  
-[![License](https://img.shields.io/github/license/yourusername/chacha20-utils)](https://github.com/yourusername/chacha20-utils/blob/main/LICENSE)  
+[![PyPI](https://img.shields.io/pypi/v/chacha20-utils.svg)](https://pypi.org/project/chacha20-utils/)
+[![Python Version](https://img.shields.io/pypi/pyversions/chacha20-utils.svg)](https://pypi.org/project/chacha20-utils/)
+[![License](https://img.shields.io/github/license/yourusername/chacha20-utils)](https://github.com/SAKIB-SALIM/chacha20-utils/blob/main/LICENSE)  
 
 ---
 
