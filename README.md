@@ -4,7 +4,7 @@
 
 [![PyPI](https://img.shields.io/pypi/v/chacha20-utils.svg)](https://pypi.org/project/chacha20-utils/)
 [![Python Version](https://img.shields.io/pypi/pyversions/chacha20-utils.svg)](https://pypi.org/project/chacha20-utils/)
-[![License](https://img.shields.io/github/license/yourusername/chacha20_utils)](https://github.com/SAKIB-SALIM/chacha20-utils/blob/main/LICENSE)  
+[![License](https://img.shields.io/github/license/SAKIB-SALIM/chacha20_utils)](https://github.com/SAKIB-SALIM/chacha20_utils/blob/main/LICENSE)
 
 ---
 
