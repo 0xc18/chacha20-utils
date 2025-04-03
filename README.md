@@ -4,7 +4,7 @@
 
 [![PyPI](https://img.shields.io/pypi/v/chacha20-utils.svg)](https://pypi.org/project/chacha20-utils/)
 [![Python Version](https://img.shields.io/pypi/pyversions/chacha20-utils.svg)](https://pypi.org/project/chacha20-utils/)
-[![License](https://img.shields.io/github/license/SAKIB-SALIM/chacha20-utils)](https://github.com/SAKIB-SALIM/chacha20-utils/blob/main/LICENSE)
+[![License](https://img.shields.io/github/license/0xc18/chacha20-utils)](https://github.com/0xc18/chacha20-utils/blob/main/LICENSE)
 
 ---
 
@@ -65,4 +65,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Author
 
 Developed by **Sakib Salim**  
-GitHub: [sakib-salim](https://github.com/SAKIB-SALIM)
+GitHub: [0xc18](https://github.com/0xc18)
